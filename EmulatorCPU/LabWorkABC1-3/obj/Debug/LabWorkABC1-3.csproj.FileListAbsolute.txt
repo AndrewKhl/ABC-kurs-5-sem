@@ -1,0 +1,28 @@
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojResolveAssemblyReference.cache
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojResolveAssemblyReference.cache
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojAssemblyReference.cache
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\2 курс Информатика БГУИР\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojAssemblyReference.cache
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\3 курс Информатика БГУИР\Кусовая работа АВС 5 сем\EmulatorCPU\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
